@@ -1,2 +1,1 @@
-# Prep-course-henry
-es de pueba del modulo 2
+es una prueba de como crear un repositorio y clonarlo desde github a mi pc
